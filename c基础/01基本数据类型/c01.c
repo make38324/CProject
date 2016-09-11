@@ -3,5 +3,5 @@
 #include<windows.h>
 
 void main(){
-
+	printf(“test”);
 }
